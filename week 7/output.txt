@@ -1,0 +1,12 @@
+Sales Report - Fridays
+
+Julian Date     Stock  Department                    Price  Qty    Total
+------------------------------------------------------------------------
+2459488.514398  73473  Cereals                    $ 13.94   1  $  13.94
+2459495.871505  87749  Vegetables                 $ 20.66   2  $  41.32
+
+Largest quantity: 2
+Largest sale:     $41.32
+
+Total items sold: 3
+Total sales:      $55.26
