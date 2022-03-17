@@ -1,7 +1,0 @@
-Symbol: Arrow Size: 5 Character:  5'
-   12345
- 1 5
- 2  55
- 3   555
- 4  55
- 5 5
