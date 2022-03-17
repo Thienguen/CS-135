@@ -1,0 +1,13 @@
+Symbol: Arrow Size: 11 Character:  B'
+   12345678901
+ 1 B
+ 2  BB
+ 3   BBB
+ 4    BBBB
+ 5     BBBBB
+ 6      BBBBBB
+ 7     BBBBB
+ 8    BBBB
+ 9   BBB
+10  BB
+11 B

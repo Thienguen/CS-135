@@ -1,0 +1,9 @@
+Symbol: Bracket Size: 5 Width: 2 Character: ']'
+   12
+ 1 ]]
+ 2  ]
+ 3  ]
+ 4  ]
+ 5  ]
+ 6  ]
+ 7 ]]
