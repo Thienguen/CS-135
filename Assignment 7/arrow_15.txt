@@ -1,0 +1,17 @@
+Symbol: Arrow Size: 15 Character:  r'
+   123456789012345
+ 1 r
+ 2  rr
+ 3   rrr
+ 4    rrrr
+ 5     rrrrr
+ 6      rrrrrr
+ 7       rrrrrrr
+ 8        rrrrrrrr
+ 9       rrrrrrr
+10      rrrrrr
+11     rrrrr
+12    rrrr
+13   rrr
+14  rr
+15 r

@@ -1,0 +1,7 @@
+Symbol: Theta Size: 5 Character: 'H'
+   12345
+ 1  HHH
+ 2 H   H
+ 3 HHHHH
+ 4 H   H
+ 5  HHH
