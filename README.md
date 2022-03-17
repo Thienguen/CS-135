@@ -4,7 +4,7 @@
 
   I'll try to update more often, but more or less of review and revise some of my old projects now versatile to be upload I guess?
 
-## Second Revision: 3/17/2022, Add Assignment 7 and hws, and the Labs
+## Second Revision: 3/17/2022, add assignment 7 and hws, and the Labs
   
   `  Read the @note at the end of each cpp file, they are the input needed and example, some will provide sample output for general purpose `
   
