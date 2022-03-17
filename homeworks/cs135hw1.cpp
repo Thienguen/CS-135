@@ -4,7 +4,6 @@ There is nothing to be inputed into this program.
 The output is the  specific excerpt from the Constitution and the Bill of Rights provided by our instructor.
 */
 
-
 #include <iostream> //This stands for Input Output streams, which allows the program to run input and output function.
 using namespace std; //Allows the program to use classes or functions from the namespace "std", that way we don't have to type the prefix each time.
 
@@ -41,5 +40,5 @@ int main()
     cout << "********************************************************************************";
     cout << 1+1;
 
-    return 0; //Indicates that program runs successfully
+    return 0; // Indicates that program runs successfully
 }
