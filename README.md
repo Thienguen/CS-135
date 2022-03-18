@@ -1,6 +1,6 @@
 # CS-135-GIthub
 
-  Check out assignment 7 and cool stuff I snictched elsewhere
+  Check out assignment 7 and 'see' stuff I snictched elsewhere
 
 ## First Revision: 3/15/2022 2:42am, checking-in.
 
