@@ -1,4 +1,5 @@
-/* Justin Moreno, 2001619058, CS135 - 1003, Lab 5
+/// @note Thien Nguyen,revision: 3/17/2022
+/* 
 
    This program prompts the user for a month, day, and year, and then
    will run through various switch statements, calculations, and
@@ -14,25 +15,26 @@
 using namespace std;
 
 int main() {
-    int month = 0, day = 0, year = 0, century = 0, dow = 0, tempYear = 0; //preset all values to 0
+    int month = 0, day = 0, year = 0, century = 0, dow = 0, tempYear = 0; 
+    // preset all values to 0
     string monthName, dayOfTheWeek;
 
     cout << "Enter in a month (1-12): ";
     cin >> month;
-    if (cin.fail()==true) { //error checks if its the correct variable type and is consistent
-        cout << "Error: Enter in a number"; //throughout the whole program
+    if (cin.fail()==true) { // error checks if its the correct variable type and is consistent
+        cout << "Error: Enter in a number"; // throughout the whole program
         return 0;
     }
-    else if (month < 1 || month > 12) { //will check if integer of month being inputted is between
-        cout << "Error: Enter in a number between 1-12\n"; //January and February
+    else if (month < 1 || month > 12) { // will check if integer of month being inputted is between
+        cout << "Error: Enter in a number between 1-12\n"; // January and February
         return 0;
     }
-    else { //name of month will switch to corresponding integer given
+    else { // name of month will switch to corresponding integer given
         switch(month) {
         case 1:
             monthName = "January";
-            month = 13; //for cases of January and February, month will change according
-            break;      //to Zeller's Rule
+            month = 13; // for cases of January and February, month will change according
+            break;      // to Zeller's Rule
         case 2:
             monthName = "February";
             month = 14;
@@ -86,11 +88,11 @@ int main() {
                 return 0;
             }
             else {
-                tempYear = year; //tempYear is used so it can alter the value of year for the equations
-                century = tempYear/100; //but at the end output, the year can be neatly outputted
-                tempYear = tempYear - (century*100); //This will get the last 2 digits of the year given
+                tempYear = year; // tempYear is used so it can alter the value of year for the equations
+                century = tempYear/100; // but at the end output, the year can be neatly outputted
+                tempYear = tempYear - (century*100); // This will get the last 2 digits of the year given
                 if(month == 1 || month == 2) {
-                    if(tempYear = 0) { //this is the case if it's January or February is century is 99
+                    if(tempYear = 0) { // this is the case if it's January or February is century is 99
                         century -= 1;
                         dow = (day+(month*(month+1))/5+(tempYear-1)+((tempYear-1)/4)+(century/4)+5*century)%7;
                     }
@@ -126,8 +128,8 @@ int main() {
                 }
                 cout << endl << dayOfTheWeek << ", " << monthName << " " << day << ", "
                      << year << endl;
-                //the final output is the day of the week, month, day, and year
-                //all neatly outputted to the screen
+                // the final output is the day of the week, month, day, and year
+                // all neatly outputted to the screen
             }
         }
     }
