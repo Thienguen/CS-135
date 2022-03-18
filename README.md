@@ -6,6 +6,13 @@
 
 ## Second Revision: 3/17/2022, add assignment 7 and hws, and the Labs
   
-  `  Read the @note at the end of each cpp file, they are the input needed and example, some will provide sample output for general purpose `
+  `Read the @note at the end/ or beginning of each cpp file, they are the input needed and example, some will provide sample output for general purpose`
   
   Some may not yet to have, I need to write them soon.
+  
+ ## Third Revision: 3/18/2022, add worksheet practices, problem sets
+ 
+  Still waiting for input files and output files for problem sets (Ｔ▽Ｔ) (Ｔ▽Ｔ)
+  Missing 1 or 2 files for worksheet, recovering . . .
+  
+  
