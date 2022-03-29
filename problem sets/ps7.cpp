@@ -1,6 +1,5 @@
 /// @note Thien Nguyen revision on 3/17/2022
 /*
-
    This program takes 2 text files, one for airplane locations and one
    for airport locations. It will then calculate the manhattan distances
    and euclidean distances from those airplane locations with the data from
