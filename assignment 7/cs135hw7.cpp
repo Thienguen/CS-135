@@ -1,4 +1,4 @@
-/// @paragraph Thien Nguyen 2001904928@student.csn.edu
+/// @paragraph Thien Nguyen
 /// Revised ths assignment on 3/16/2022 
 /// it was 3 in the morning, send nud, I mean help
 
