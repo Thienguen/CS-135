@@ -1,4 +1,4 @@
-# CS-135-GIthub
+# CS-135-Github
 
   Check out assignment 7 and 'see' stuff I snictched elsewhere
 
